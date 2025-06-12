@@ -61,3 +61,8 @@ Fairness: The various curriculum learning strategies and model architectures sig
 Accuracy: The U-Net architecture, combined with curriculum learning methods and the custom loss function, achieved a robust balance between accuracy (IoU) and fairness.
 
 For more information, please visit the upcoming paper: Coming Soon
+Few Snapshot of our results -> 
+For Hip : 
+![image_alt](https://github.com/xdilab/Segmentation_Bias/blob/7309c027217752cb4fe0a6ca92a1a96e51448657/HIP.png)
+For Knee : 
+![image_alt](https://github.com/xdilab/Segmentation_Bias/blob/7309c027217752cb4fe0a6ca92a1a96e51448657/HIP.png)

@@ -74,4 +74,4 @@ For Hip :
 For Knee : 
 
 
-![image_alt](https://github.com/xdilab/Segmentation_Bias/blob/7309c027217752cb4fe0a6ca92a1a96e51448657/HIP.png)
+![image_alt](https://github.com/xdilab/Segmentation_Bias/blob/df4f17ac76d166bb746fcf0bd64a13ca29086c54/KNee.png)
